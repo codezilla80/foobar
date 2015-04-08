@@ -1,2 +1,2 @@
 # foobar
-Ignore. This is jut a comment.
+Ignore. This is just a comment.
